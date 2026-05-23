@@ -3,6 +3,7 @@
 # https://github.com/blog/2392-introducing-code-owners
 # https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
 
-* @adilei @HenryJammes @nesrivastavaMS
+* @adilei @HenryJammes
 
-/CustomAnalytics @iMicknl @adilei @HenryJammes @nesrivastavaMS
+# ESS team owns their own content
+/EmployeeSelfServiceAgent/ @microsoft/ess-contributors
